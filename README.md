@@ -71,4 +71,5 @@ in
 ```
 ### Recommendations
 Top 5 genres are Action, Comedy, etc. I would recommend Netflix to produce a movie with one of these genres as they brought in more at the box office revenue based on the data from 2012 to 2016
+
 <img width="525" height="195" alt="Screenshot 2025-12-16 at 9 44 13 PM" src="https://github.com/user-attachments/assets/c6201e62-eba9-41b9-8329-7a56e5d12b66" />
