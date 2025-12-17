@@ -1,11 +1,11 @@
 # Movie Dashboard
-## Table of Content
-[Problem Statement](#problem-statement)
-[Data Source](#data-source)
-[Tools](#tools)
-[Data Cleaning](#data-cleaning)
-[M Code](#m-code)
-[Recommendations](#recommendations)
+## Table of Contents:
+- [Problem Statement](#problem-statement)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [M Code](#m-code)
+- [Recommendations](#recommendations)
 ### Problem Statement
 Netflix aims to better understand which movie it should produce next, including the most suitable actors and directors. We have a dataset containing movie budgets, box office performance, actors, directors, and genres. Your task is to build an Excel dashboard that provides insights into this dataset. The dashboard should help identify:
 - The best-performing actors
