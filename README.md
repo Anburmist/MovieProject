@@ -4,7 +4,7 @@
 [Data Source](#data-source)
 [Tools](#tools)
 [Data Cleaning](#data-cleaning)
-[]
+[M Code](#m-code)
 ### Problem Statement
 Netflix wants to better understand which movie it should produce next, including the most suitable actors and directors. We have a dataset containing movie budgets, box office performance, actors, directors, and genres. Your task is to build an Excel dashboard that provides insights into this dataset. The dashboard should help identify:
 - The best-performing actors
@@ -29,6 +29,7 @@ Dashboard](https://github.com/Anburmist/MovieProject/blob/main/Movie%20Data%20Pr
 ### Dashboard
 <img width="825" height="620" alt="Screenshot 2025-12-16 at 9 38 18 PM" src="https://github.com/user-attachments/assets/bd88beb5-217f-4a36-b4f5-4581e50d7a3a" />
 
+### M Code
 ```
 let
   Source = Excel.Workbook(File.Contents("/Users/annaburm/Downloads/Movies_Data_Homework (1).xlsx"), null, true),
@@ -68,3 +69,6 @@ in
   #"Changed column type 2"
 
 ```
+### Recommendations
+Top 5 genres are Action, Comedy, etc. I would recommend Netflix to produce a movie with one of these genres as they brought in more at the box office revenue based on the data from 2012 to 2016
+<img width="525" height="195" alt="Screenshot 2025-12-16 at 9 44 13 PM" src="https://github.com/user-attachments/assets/c6201e62-eba9-41b9-8329-7a56e5d12b66" />
